@@ -1,2 +1,2 @@
-# Currency_converter
-i have created a dynamic real time currency converter
+# currency-converter
+This is a simple JavaScript beginner project. Using this webpage, you can convert currencies with the real time exchange values.
